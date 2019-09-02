@@ -53,7 +53,7 @@ roles:
    start: 2018
    end: Ongoing
    employer: Xilinx
-   description: "- Developed C++ APIs for accelerating Neural Network Inference on FPGAs - Developed Python example applications - Developed Jupyter Notebook tutorials to promote customer adoption - Lead technical workshops promoting our software at conferences such as CVPR"
+   description: "- Developed C++ APIs for accelerating Neural Network Inference on FPGAs \n- Developed Python example applications \n- Developed Jupyter Notebook tutorials to promote customer adoption \n- Lead technical workshops promoting our software at conferences such as CVPR"
  - title: Senior Engineer
    start: 2016
    end: 2017
