@@ -9,8 +9,8 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+# - title: Blog
+#   url: http://automateddeveloper.blogspot.com/
  - title: GitHub
    url: https://github.com/wilderfield
  - title: StackOverflow
@@ -49,11 +49,14 @@ skills:
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Machine Learning Engineer
+   start: 2018
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
+   employer: Xilinx, Inc
+   description:  - Developed C++ APIs for accelerating Neural Network Inference on FPGAs |
+  - Developed Python example applications |
+  - Developed Jupyter Notebook tutorials to promote customer adoption |
+  - Lead technical workshops promoting our software at conferences such as CVPR
  - title: Senior Engineer
    start: 2016
    end: 2017
@@ -104,7 +107,7 @@ coursera:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - Xilinx/ml-suite
+ - wilderfield/Xilinx/ml-suite
  - wilderfield/webcam-client
  - wilderfield/data-structures-algorithms
 
