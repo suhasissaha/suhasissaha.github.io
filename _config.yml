@@ -25,7 +25,7 @@ skills:
  - Machine Learning
  - Caffe
  - TensorFlow
- - Convolutional Neural Networks
+ - CNN
  - LSTM
  - MLP
  - Python
@@ -35,9 +35,10 @@ skills:
  - REST
  - Caffe
  - Microservices
- - API design
+ - API Design
  - git
  - gdb / pdb debugging
+ - docker
  - Verilog
  - SystemVerilog
  - Xilinx FPGA Architecture
@@ -53,42 +54,42 @@ roles:
    start: 2018
    end: Ongoing
    employer: Xilinx
-   description: "- Developed C++ APIs for accelerating Neural Network Inference on FPGAs \n- Developed Python example applications \n- Developed Jupyter Notebook tutorials to promote customer adoption \n- Lead technical workshops promoting our software at conferences such as CVPR"
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   description: "Developed C++ APIs for accelerating Neural Network Inference on FPGAs. Developed Python example applications. Developed Jupyter Notebook tutorials to promote customer adoption. Lead technical workshops promoting our software at conferences such as CVPR"
+ - title: Applications Engineer
+   start: 2014
+   end: 2018
+   employer: Xilinx
+   description: "Supported top customers in the telecommunications space. Support work entailed providing guidance in the realms of: Logic Design, Simulation, Static Timing Analysis, Board Design, Schematic Review, and General Debug."
+ - title: Design Verification Engineer
+   start: 2013
+   end: 2014
+   employer: Ericsson
+   description: "Developed System Verilog test benches for 100GE designs. Developed test cases to verify functional correctness. Developed scripts for automated regression testing."
+ - title: Hardware Engineer
+   start: 2011
+   end: 2014
+   employer: Cisco
+   description: "Lead Logic Design efforts on several projects. Developed Verilog modules implementing common board control functions. Supported verification teams, and lab bringup."
 
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+   date: 2011
+   subject: Electrical Engineering
+   school: Rochester Institute of Technology
 
 #This section is optional (as is the image link below)
 coursera:
    profileurl: https://www.coursera.org/user/2fe583b0a465d2d6857ca14919c52a1d
    courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
+    - title: Deeplearning Specialization
+      link: https://www.coursera.org/specializations/deep-learning
+      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/57/4be3fd8d16487ab9cfa7bba909b236/GreyLogoName1000x1000.png?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF
+      date: July 7, 2018
+    - title: Machine Learning (Stanford University)
       link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/ml/large-icon.png?auto=format%2Ccompress&dpr=1&w=200&h=112&fit=crop
+      date: August 24, 2016
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
@@ -111,7 +112,7 @@ github:
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: https://stackoverflow.com/users/7748562/wilderfield
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+   flairimageurl: http://stackoverflow.com/users/flair/7748562.png
 
 intro: |
   I am an engineer with 9 years experience working in "Silicon Valley".  
