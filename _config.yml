@@ -12,39 +12,26 @@ primarylinks:
 # - title: Blog
 #   url: http://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/wilderfield
+   url: https://github.com/suhasissaha
  - title: StackOverflow
-   url: https://stackoverflow.com/users/7748562/wilderfield
+   url: https://stackoverflow.com/users/500590/suhasis
 # - title: DZone
 #   url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
-   url: https://www.linkedin.com/in/bryan-lozano-869b7424/
+   url: https://www.linkedin.com/in/getsuha/
 
 #Any buzzword skills you want to include
 skills:
- - Machine Learning
- - Caffe
- - TensorFlow
- - CNN
- - LSTM
- - MLP
- - Python
  - C++
+ - Java 
  - JavaScript
  - HTML
  - REST
- - Caffe
+ - Python
  - Microservices
  - API Design
  - git
- - gdb / pdb debugging
- - docker
- - Verilog
- - SystemVerilog
- - Xilinx FPGA Architecture
- - PCIe
- - Ethernet
-
+ 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
